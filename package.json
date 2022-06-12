@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio01",
+  "version": "1.0.0",
+  "description": "proyecto de Node, dentro del package.json se crea un script que muestre por pantalla Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo.",
+  "main": "index.js",
+  "scripts": {
+    "start": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jig7709/Javascript_OpenBootcamp.git"
+  },
+  "keywords": [
+    "ejercicio01",
+    "OpenBootcamp"
+  ],
+  "author": "Geoergi Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jig7709/Javascript_OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/jig7709/Javascript_OpenBootcamp#readme"
+}
